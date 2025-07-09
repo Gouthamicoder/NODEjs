@@ -6,3 +6,4 @@ import  {add,diff,y} from './allFun.js'
 // console.log(x);
 console.log(y().addFn(1,8));
 console.log(y().diffFn(1,8));
+console.log("HI");
