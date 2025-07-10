@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Srilatha",
+    "role": "Developer",
+    "salary": 50000,
+    "id": "1752145343344"
+  },
+  {
+    "name": "Bob",
+    "role": "Developer",
+    "salary": 50000,
+    "id": "1752145391936"
+  },
+  {
+    "name": "Gouthami",
+    "role": "Developer",
+    "salary": 100000,
+    "id": "1752145419572"
+  }
+]

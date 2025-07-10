@@ -1,0 +1,14 @@
+function y()
+{
+    function addFn(a,b)
+{
+    return a+b;
+}
+
+function diffFn(a,b)
+{
+    return a-b;
+}
+
+module.exports =y;
+}

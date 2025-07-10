@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Node.js",
+      "completed": false
+    },
+    {
+      "id": 1752142024386,
+      "title": "Learn React.js",
+      "completed": false
+    },
+    {
+      "id": 1752142039448,
+      "title": "Learn React.js",
+      "completed": false
+    },
+    {
+      "id": 1752142084050,
+      "title": "Learn Express",
+      "completed": false
+    },
+    {
+      "id": 1752143409871,
+      "title": "DS",
+      "completed": true
+    }
+  ]
+}
